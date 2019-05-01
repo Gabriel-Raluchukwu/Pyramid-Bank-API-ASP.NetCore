@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankTwoAPI_Data\BankTwoAPI_Data.csproj" />
+    <ProjectReference Include="..\BankTwoAPI_Entities\BankTwoAPI_Entities.csproj" />
+  </ItemGroup>
+
+</Project>

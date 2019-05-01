@@ -1,0 +1,12 @@
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\bin\Debug\netcoreapp2.1\BankTwoAPI_Data.deps.json
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\bin\Debug\netcoreapp2.1\BankTwoAPI_Data.dll
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.csprojAssemblyReference.cache
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.csproj.CoreCompileInputs.cache
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.AssemblyInfoInputs.cache
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.AssemblyInfo.cs
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\bin\Debug\netcoreapp2.1\BankTwoAPI_Data.pdb
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.dll
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.pdb
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\bin\Debug\netcoreapp2.1\BankTwoAPI_Entities.dll
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\bin\Debug\netcoreapp2.1\BankTwoAPI_Entities.pdb
+C:\Users\Raluchukwu\source\repos\BankTwoCoreAPI\BankTwoAPI_Data\obj\Debug\netcoreapp2.1\BankTwoAPI_Data.csproj.CopyComplete
